@@ -8,6 +8,6 @@ class GetController extends Controller
 {
     public function __invoke()
     {
-            return "This GetController";
+            return "This is GetController";
     }
 }
